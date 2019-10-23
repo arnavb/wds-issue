@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/index.js',
   devServer: {
       contentBase: './dist',
-      port: 3000
+      port: 8080
   },
   output: {
     filename: 'main.js',
